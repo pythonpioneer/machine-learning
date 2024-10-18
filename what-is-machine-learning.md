@@ -44,8 +44,8 @@ In this case, where the accuracy is not as expected, it means that the model is 
 
 This is a great question and the answer lies in the training process. How we structure the training process, and how we modify the different aspects of the training to improve the model's performance. If we simply retrain the model using the same approach and the same dataset, the results are likely to be similar. To resolve the issue we have several techniques:
 
-- **Changing the model architecture:** We can modify the model architecture and algorithms. For example, if we are using `classification supervised machine learning` and the dataset is not suitable for this algorithm then we can switch to some other machine learning algorithms like `clustering unsupervised machine learning` or some other suitable machine learning algorithms. It can help us to improve model's accuracy and performance.
-- **Hyperparameter tuning:** 
+- **Changing the model architecture:** We can modify the model architecture and algorithms. For example, if we are using `classification supervised machine learning` and the dataset is not suitable for this algorithm then we can switch to some other machine learning algorithms like `clustering unsupervised machine learning` or some other suitable machine learning algorithms. It can help us to improve the model's accuracy and performance.
+- **Hyperparameter tuning:** It is critical aspect of 
 - **Data splitting**
 
 
