@@ -51,7 +51,17 @@ This is a great question and the answer lies in the training process. How we str
 
 There are other various techniques to improve the performance and accuracy of the model.
 
+## 3. Types of Machine Learning
 
+Machine learning can be broadly categorized into three types: **Supervised Machine Learning**, **Unsupervised Machine Learning**, and **Reinforcement Machine Learning**. Each type serves different purposes and it depends on the type of dataset and the various kinds of problems.
+
+  1. **Supervised Machine Learning:** In supervised learning, the model is trained on a labeled dataset, which means that in the training dataset, each input value has a corresponding output value and the goal for the model is to learn a mapping from the inputs to outputs based on the given labeled data.
+     
+     Example: let's say we have a dataset in which, a picture of oranges is labeled with the text orange and a picture of mango is labeled with the text mango we have so much input data in the dataset with the variety of images. So, in this scenario, the trained model can identify that the given image is a mango, an orange, or none of them.
+
+  2. **Unsupervised Machine Learning:** In unsupervised learning, the model is trained on an unlabeled dataset, which means that there is no label provided for the input values and the goal of the model is to learn from the structure of the data, identify the patterns in the data and the relationship within the data without any explicit guidance.
+
+     Example: Let's consider the above dataset but without the label, means that we have images of oranges and images of mangoes but there is no label mentioning which one is what type of fruit. In this scenario, the model analyzes the features of the images to discern that they represent different types of fruits. It will cluster the images based on similarities in their visual characteristics and it can identify that this is a different fruit and this one is a different fruit and the other fruit's images will be unidentified.
 
 
 
