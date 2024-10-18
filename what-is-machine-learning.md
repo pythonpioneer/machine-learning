@@ -25,13 +25,12 @@ Machine Learning is a revolutionizing technology and it has the potential to tra
 ![ml-header](./ml-dark.png#gh-dark-mode-only)
 ![ml-header](./ml-light.png#gh-light-mode-only)
 
-
-
 Machine Learning systems usually take place where rule-based programming or traditional programming approaches are too complex or impractical to implement. Such as Image recognition, text recognition, and self-driving cars.
 
 **Formal Definition of Machine Learning**
 
 In technical terms, machine learning refers to the development of algorithms that enable a machine to improve its performance based on past experiences. These experiences are usually presented in the form of data, and the machine learns by analyzing this data to identify trends and patterns.
+
 
 
 
