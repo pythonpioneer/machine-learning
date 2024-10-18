@@ -1,6 +1,6 @@
 # What is Machine Learning?
 
-In today's era, Machine Learning (ML) has become one of the most popular, influential, and rapidly growing fields. Machine learning (ML) powers everything from personalized song suggestions to reusable rocket launch systems, spam detection, and medical diagnosis. But what is Machine Learning (ML), and how does it work?
+In today's era, machine learning (ML) has become one of the most influential, popular, and rapidly growing fields. It powers various technologies from personalized song suggestions to reusable rocket launch systems, spam detection, and medical diagnosis. But what is Machine Learning (ML), and how does it work?
 
 In this article, we'll explore the fundamentals of ML, the types of machine learning, how it works, its advantages and benefits, and some real-world applications and challenges associated with this transformative technology.
 
@@ -19,7 +19,7 @@ In this article, we'll explore the fundamentals of ML, the types of machine lear
 
 ## 1. Introduction to Machine Learning
 
-Machine Learning is a revolutionizing technology and it has the potential to transmute the future. It enables computers to make data-driven decisions without explicit human interactions. As we know, Machine Learning (ML) is a subset of Artificial Intelligence (AI) that allows computers to learn from data or make decisions or predictions based on that learning. Unlike traditional programming approaches, where a programmer must explicitly define rules for a task, ML systems automatically learn from the data, identify patterns, and make decisions without being explicitly programmed for specific tasks.
+Machine Learning is a revolutionizing technology and it has the potential to transmute the future. It allows computers to make data-driven decisions without direct human involvement. As we know, Machine Learning (ML) is a subset of Artificial Intelligence (AI) that enables computers to learn from data and use that knowledge to make decisions or predictions. Unlike conventional programming approaches, where a programmer must explicitly define rules for a task, ML systems automatically learn from the data, identify patterns, and make decisions without being explicitly programmed for specific tasks.
 
 ![ml-header](./ml-dark.png#gh-dark-mode-only)
 ![ml-header](./ml-light.png#gh-light-mode-only)
