@@ -7,16 +7,42 @@ In this article, we'll explore the fundamentals of ML, the types of machine lear
 ## Table of Contents
 
 1. Introduction to Machine Learning
-2. What is Machine Learning
-3. How Machine Learning works
-4. Types of Machine Learning
+2. How Machine Learning works
+3. Types of Machine Learning
    - Supervised Machine Learning
    - Unsupervised Machine Learning
    - Reinforcement Machine Learning
-5. Real-world applications of Machine Learning
-6. Advantages of Machine Learning
-7. Disadvantages of Machine Learning
-8. Challenges in Machine Learning
-9. Conclusion
+4. Real-world applications of Machine Learning
+5. Advantages of Machine Learning
+6. Disadvantages of Machine Learning
+7. Challenges in Machine Learning
+8. Conclusion
+
+## 1. Introduction to Machine Learning
+
+Machine Learning is a revolutionizing technology and it has the potential to transmute the future. It enables computers to make data-driven decisions without explicit human interactions. As we know, Machine Learning (ML) is a subset of Artificial Intelligence (AI) that allows computers to learn from data or make decisions or predictions based on that learning. Unlike traditional programming approaches, where a programmer must explicitly define rules for a task, ML systems automatically learn from the data, identify patterns, and make decisions without being explicitly programmed for specific tasks.
+
+
+----Image---->>>>>> AI and ML venn diagram 
+
+
+Machine Learning systems usually take place where rule-based programming or traditional programming approaches are too complex or impractical to implement. Such as Image recognition, text recognition, and self-driving cars.
+
+**Formal Definition of Machine Learning**
+
+In technical terms, machine learning refers to the development of algorithms that enable a machine to improve its performance based on past experiences. These experiences are usually presented in the form of data, and the machine learns by analyzing this data to identify trends and patterns.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
