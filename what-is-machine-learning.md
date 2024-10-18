@@ -63,6 +63,16 @@ Machine learning can be broadly categorized into three types: **Supervised Machi
 
      Example: Let's consider the above dataset but without the label, means that we have images of oranges and images of mangoes but there is no label mentioning which one is what type of fruit. In this scenario, the model analyzes the features of the images to discern that they represent different types of fruits. It will cluster the images based on similarities in their visual characteristics and it can identify that this is a different fruit and this one is a different fruit and the other fruit's images will be unidentified.
 
+  3. **Reinforcement Machine Learning:** Reinforcement learning is a type of machine learning where an agent learns to make decisions by interacting with the given environment. Unlike supervised and unsupervised learning where the models learn from the labeled data or by identifying patterns, reinforcement learning focuses on learning through the trial and error method, receiving feedback from its action in the form of penalties and rewards.
+
+     In reinforcement learning, the agent starts the learning from an initial state or state zero and performs an action based on its policy (a policy is a decision-making guide for example a mopping robot can only move forward and to move backward, it has to rotate 180deg and then it can move). The action will result in a new state and feedback. If the feedback is a reward then the performed action is reliable and the agent will update the policy as per the reward. if the feedback is a penalty then the model will think about some other actions. And the goal is to maximize the cumulative reward over time.
+
+     Example: Considering the same dataset, a robot (model) is trying to identify which images of fruits, such as oranges and mangoes. In this scenario, the model will start with a trial-and-error approach and it will be very random, it will take so many fruit names based on the visual features, and as per the name, it gets feedback in the form of rewards or penalties. A reward means that the robot guesses the correct feature or a penalty means the need for improvements. After so many tries, it begins to recognize correct patterns and correlations between the specific visual characteristics and the corresponding fruit names.
+
+
+      and after so many tries it will guess the name of the fruit.
+
+
 
 
 
