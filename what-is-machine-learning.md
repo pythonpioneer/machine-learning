@@ -102,7 +102,7 @@ Machine Learning (ML) has transformed numerous industries by providing innovativ
    - Fraud detection
    - Network intrusion detection
    - Keystroke dynamics
-   - Mouse movements (like Python bases still-alive command line tool)
+   - Mouse movements (like Python based still-alive command line tool)
    - Spam filtering
 
 ## 5. Advantages of Machine Learning
