@@ -38,7 +38,7 @@ At its core, machine learning relies on various algorithms and data. The process
 
 **What happens when the accuracy is not as expected**
 
-In this case, where the accuracy is not as expected, it means that the model is an underfit model (where the accuracy is very low) or an overfit model (where the accuracy is very high). In both scenarios, the model will be retrained. 
+In this case, where the accuracy is not as expected, it means that the model is an `underfit model` (where the accuracy is very low) or an `overfit model` (where the accuracy is very high). In both scenarios, the model will be retrained. 
 
 **You might wonder that if we use the same data for retraining, how can we expect a different result? Let's deep dive into this question.**
 
@@ -46,8 +46,10 @@ This is a great question and the answer lies in the training process. How we str
 
 - **Changing the model architecture:** We can modify the model architecture and algorithms. For example, if we are using `classification supervised machine learning` and the dataset is not suitable for this algorithm then we can switch to some other machine learning algorithms like `clustering unsupervised machine learning` or some other suitable machine learning algorithms. It can help us to improve the model's accuracy and performance.
 - **Hyperparameter tuning:** It is a critical aspect of machine learning that directly affects the performance of a model. Unlike model parameters (which are learned automatically during training), hyperparameters are set before the training begins and they control how the model learns. It is essential for optimizing the learning process, improving accuracy, and ensuring the model generalizes to unseen and fresh data. Hyperparameters include the `learning rate` (change the model's weights during training), `batch size` (the number of data processed per iteration), `number of epochs` (total times the entire training dataset is passed through the model), `momentum`, and `dropout rate`.
-- **Data Cleaning:** 
-- **Data Splitting**
+- **Data Cleaning:** Data cleaning is essential for ensuring the quality of the dataset used to train the model. Unclean data, which may contain errors, inconsistencies, missing values, or outliers can significantly impact the model's accuracy. Therefore it's important to clean the data before training.
+- **Data Splitting:** If we did everything well and still got an overfit or underfit model, then we need to rethink the dataset splitting. Before training the model, we clean the dataset and then split the dataset into three parts, training set (this portion of the dataset is used to train the model), validation set (this subset of the dataset used to tune the model's hyperparameters), and test set (this portion of dataset is new to the model and used to test the model).
+
+There are other various techniques to improve the performance and accuracy of the model.
 
 
 
