@@ -143,7 +143,7 @@ Machine learning (ML) has rapidly gained popularity in various industries due to
 
 4. **Limited to the Data It Trains On**
 
-   As we know machine learning models heavily depend on the data, and the given data is used to train the ML model, but it comes with limitations, the model can not think about anything beyond the data
+   As we know machine learning models heavily depend on the data, and the given data is used to train the ML model, but it comes with limitations, the model can not think about anything beyond the data. So, it makes the ML models ill-suited for scenarios, where the patterns are very unpredictable and if the data becomes outdated the accuracy of the model will be very low. In these scenarios, the model will not work effectively.
 
 ## 8. Conclusion
 
