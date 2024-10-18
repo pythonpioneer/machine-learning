@@ -23,7 +23,7 @@ In this article, we'll explore the fundamentals of ML, the types of machine lear
 Machine Learning is a revolutionizing technology and it has the potential to transmute the future. It enables computers to make data-driven decisions without explicit human interactions. As we know, Machine Learning (ML) is a subset of Artificial Intelligence (AI) that allows computers to learn from data or make decisions or predictions based on that learning. Unlike traditional programming approaches, where a programmer must explicitly define rules for a task, ML systems automatically learn from the data, identify patterns, and make decisions without being explicitly programmed for specific tasks.
 
 
-----Image---->>>>>> AI and ML venn diagram 
+
 
 
 Machine Learning systems usually take place where rule-based programming or traditional programming approaches are too complex or impractical to implement. Such as Image recognition, text recognition, and self-driving cars.
