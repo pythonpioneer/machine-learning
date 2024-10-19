@@ -1,8 +1,8 @@
 # What is Machine Learning?
 
-In today's era, machine learning (ML) has become one of the most influential, popular, and rapidly growing fields. It powers various technologies from personalized song suggestions to reusable rocket launch systems, spam detection, and medical diagnosis. But what is Machine Learning (ML), and how does it work?
+In this computer era, there are various growing fields and machine learning is one of those. We can define machine learning as the ability of a machine to learn and perform action on its own. ML or Machine learning is a highly transformative and influential technology in our computer world. This has many real-world applications such as generative AI, self-driving cars and reusable rocket launch systems. Follow me on this journey into machine learning to see what it is.
 
-In this article, we'll explore the fundamentals of ML, the types of machine learning, how it works, its advantages and benefits, and some real-world applications and challenges associated with this transformative technology.
+So, this article will encompass the basics of ML, How it is getting implemented in real life, and the different benefits of machine learning.
 
 ## Table of Contents
 
