@@ -1,8 +1,6 @@
 # What is Machine Learning?
 
-In this computer era, there are various growing fields and machine learning is one of those. We can define machine learning as the ability of a machine to learn and perform action on its own. ML or Machine learning is a highly transformative and influential technology in our computer world. This has many real-world applications such as generative AI, self-driving cars and reusable rocket launch systems. Follow me on this journey into machine learning to see what it is.
-
-So, this article will encompass the basics of ML, How it is getting implemented in real life, and the different benefits of machine learning.
+In this computer era, there are various growing fields and machine learning is one of those. We can define machine learning as the ability of a machine to learn and perform action on its own. ML or Machine learning is a highly transformative and influential technology in our computer world. This has many real-world applications such as generative AI, self-driving cars, and reusable rocket launch systems. Follow me on this journey into machine learning to see what it is and how it works.
 
 ## Table of Contents
 
@@ -19,7 +17,7 @@ So, this article will encompass the basics of ML, How it is getting implemented 
 
 ## 1. Introduction to Machine Learning
 
-Machine Learning is a revolutionizing technology and it has the potential to transmute the future. It allows computers to make data-driven decisions without direct human involvement. As we know, Machine Learning (ML) is a subset of Artificial Intelligence (AI) that enables computers to learn from data and use that knowledge to make decisions or predictions. Unlike conventional programming approaches, where we must explicitly define rules for a task, ML systems automatically learn from the data, identify patterns, and make decisions without being explicitly programmed for specific tasks.
+Machine learning is a subset of artificial intelligence (AI) that enables computers to make decisions based on past experiences or given data. And after the training of the ML model, the model is ready to perform actions on its own, without any human involvement. ML technology is very different than conventional programming where we explicitly define rules to act. Machine learning models are capable to think, predict, and make decisions based on training data.
 
 ![ml-header](./ml-dark.png#gh-dark-mode-only)
 ![ml-header](./ml-light.png#gh-light-mode-only)
